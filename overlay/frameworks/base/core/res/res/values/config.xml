@@ -180,4 +180,7 @@
         <item>376.2</item>
         <item>392.9</item>
     </array>
+
+     <!-- Whether the device has outdated qti-telephony-common.jar -->
+     <bool name="config_oldQtiTelephony">false</bool>
 </resources>
