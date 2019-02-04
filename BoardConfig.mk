@@ -13,7 +13,7 @@ DEVICE_PATH := device/xiaomi/polaris
 TARGET_OTA_ASSERT_DEVICE := polaris
 
 # Kernel
-TARGET_KERNEL_CONFIG := polaris_defconfig
+TARGET_KERNEL_CONFIG := simple-polaris_defconfig
 
 # NFC
 TARGET_USES_NQ_NFC := true
